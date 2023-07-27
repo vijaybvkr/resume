@@ -1,0 +1,33 @@
+*{
+font-family: 'Roboto', sans-serif;
+}
+#ls{
+    margin: 7%;
+    border: 2px solid green;
+    padding: 5%;
+    background-color: aliceblue;
+}
+h3{
+    color: blue;
+}
+a{
+    color: red;
+}
+span{
+    color: black;
+    font-weight: bold;
+}
+hr{
+    background-color: blue;
+    height: 3px;
+}
+.side{
+    color: blue;
+    text-decoration: underline;
+}
+#bol{
+    font-weight: bold;
+}
+.pd{
+    font-size: 20px;
+}
